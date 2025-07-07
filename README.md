@@ -4,6 +4,7 @@ Bayu Nurcahyo 3012310007
 
 php artisan migrate --seed
 npm install --legacy-peer-deps
+
 composer install  
 
 php artisan serve
